@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Orion, my Python assistant built with the needle library<br>👯 I'm looking to collaborate on beginner-friendly Python projects<br>🥅 I'm looking for help with learning Python and GitHub<br>🌱 I'm currently learning Python<br>💬 Ask me about Python basics and building a simple assistant<br>⚡ Fun fact: my assistant even has a snake game inside it
+🔭 I'm currently working on Orion, my Python assistant built with the needle library<br>👯 I'm looking to collaborate on beginner-friendly Python and C++ projects<br>🥅 I'm looking for help with learning Python, C++ and GitHub<br>🌱 I'm currently learning Python and C++<br>📚 I've studied Programming Fundamentals, Data Structures & Algorithms (DSA), OOP, DBMS and Operating Systems<br>💬 Ask me about Python, C++, DSA, OOP and DBMS basics<br>⚡ Fun fact: my assistant even has a snake game inside it
 
 
 ## 🌐 Socials:
